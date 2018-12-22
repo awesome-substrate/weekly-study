@@ -1,3 +1,7 @@
+## 12/22/2018
+
+*   Continue [notes on Polkadot Paper](https://github.com/sywang-desiree/block_chain_study/blob/master/notes/PolkaDotPaper_notes.md).
+
 ## 12/12/2018
 
 *   Continue [notes on Polkadot Paper](https://github.com/sywang-desiree/block_chain_study/blob/master/notes/PolkaDotPaper_notes.md).
